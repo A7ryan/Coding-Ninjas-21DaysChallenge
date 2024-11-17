@@ -1,3 +1,7 @@
+#include <iostream>
+#include <bits/stdc++.h>
+using namespace std;
+
 double areaSwitchCase(int ch, vector<double> a) {
 	// Write your code here
 	switch(ch) {
